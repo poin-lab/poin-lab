@@ -148,7 +148,7 @@ Information security, AI-based security analysis, phishing detection, WebView-ba
 
 ### Blockchain / Distributed Storage
 
-Blockchain-based data sharing systems, Hyperledger Fabric, smart contracts, IPFS-based distributed storage, metadata linkage, verifiable data access
+Blockchain-based data sharing systems, Hyperledger Fabric, smart contracts, IPFS-based distributed system, metadata linkage, verifiable data access
 
 ### Cloud / Backend
 
