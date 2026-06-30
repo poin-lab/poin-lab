@@ -146,9 +146,9 @@ Machine learning, anomaly detection, data preprocessing, model evaluation
 
 Information security, AI-based security analysis, phishing detection, WebView-based static/dynamic analysis
 
-### Blockchain / Distributed Storage
+### Blockchain / Distributed System
 
-Blockchain-based data sharing systems, Hyperledger Fabric, smart contracts, IPFS-based distributed system, metadata linkage, verifiable data access
+Blockchain-based data sharing systems, Hyperledger Fabric, smart contracts, IPFS-based distributed storage, metadata linkage, verifiable data access
 
 ### Cloud / Backend
 
