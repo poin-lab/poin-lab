@@ -102,10 +102,6 @@ Tech stack: Python, Go chaincode, Hyperledger Fabric, IPFS/Kubo, Docker Compose,
 - Developed smart-contract-based contract, transaction, and revenue settlement logic
 - Contributed to technology transfer to N2Farm
 
-### LWE / Post-Quantum Cryptography Security Evaluation
-
-- Participated in research on sparse LWE secret-key recovery and neural-network-based secret-vector inference
-- Related domestic conference papers accepted and Korean patent applications filed
 
 ## Publications
 
